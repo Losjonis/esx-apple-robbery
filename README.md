@@ -17,7 +17,7 @@ This repository contains the following dependencies required for the robbery scr
 ## Installation Instructions 📋
 1. **Clone the repository** into your server's resources folder:
    ```sh
-   git clone <repository_url> esx_jonis_applerobbery
+   git clone https://github.com/Losjonis/esxapplerobbery.git
    ```
 2. **Add the resources** to your `server.cfg`:
    ```txt
